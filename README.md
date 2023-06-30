@@ -41,4 +41,7 @@ Now, lets set up the service with systemctl.
 # systemctl enable user
 ```
 
+# camel case
+#EX  HiSanthosh, GoodMorninv....Thye dont give any gaps simply they will follow the flow this is what the camel case.
+
 
