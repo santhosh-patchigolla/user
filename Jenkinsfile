@@ -1,7 +1,7 @@
 @Library('roboshop-shared-library') _
 
 env.COMPONENT="user"
-env.COMPONENT="nodejs"
+env.APP_TYPE="nodejs"
 nodejs()      // calling  from the roboshop-shared librar(from vars and call is the default function in the Jenkins)
 
 
